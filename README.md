@@ -1,9 +1,7 @@
-# Olist-Brazilian-E-Commerce
+# Olist Brazilian E-Commerce
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi&logoColor=yellow)](https://app.powerbi.com/)
-
-SQL-исследование, как соблюдение обещанных сроков доставки влияет на оценки клиентов и их вероятность вернуться за повторной покупкой.
 
 ### 🗂️ Источник данных
 **Датасет:** [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) с Kaggle.
