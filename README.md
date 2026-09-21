@@ -3,6 +3,8 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi&logoColor=yellow)](https://app.powerbi.com/)
 
+![Ключевые находки](https://github.com/lilvillain404/Olist_Brazilian_E-Commerce/blob/main/Results/retention.png)
+
 ### 🗂️ Источник данных
 **Датасет:** [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) с Kaggle.
 
