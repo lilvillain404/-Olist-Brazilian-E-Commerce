@@ -58,3 +58,14 @@ PostgreSQL (pgAdmin4). Все выводы получены исключител
 ### 📍 Возможности для дальнейшей работы:
 1. Расстояние продавец–клиент, вес/габариты товара и сезонность как возможные факторы задержек не исследованы в этой версии анализа.
 1. Анализ влияния на выручку не проводился.
+
+
+
+<div align="center">
+<img src=https://github.com/lilvillain404/Olist_Brazilian_E-Commerce/blob/main/Results/PixVerse_V6_Fusion_540P_image1____-ezgif.com-video-to-gif-converter.gif width="400">
+</div>  
+
+<p align="center">
+  <b>Спасибо, что заглянули в мой проект!</b><br>
+  Буду рада вашим отзывам и предложениям.
+</p>
