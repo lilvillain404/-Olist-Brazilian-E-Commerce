@@ -61,6 +61,8 @@ PostgreSQL (pgAdmin4). Все выводы получены исключител
 1. Анализ влияния на выручку не проводился.
 
 
+**📚 Готовится раздел дополнительного разбора с помощью Python!**
+
 
 <div align="center">
 <img src=https://github.com/lilvillain404/Olist_Brazilian_E-Commerce/blob/main/Results/PixVerse_V6_Fusion_540P_image1____-ezgif.com-video-to-gif-converter.gif width="400">
